@@ -7,7 +7,7 @@ int image_height = 256;
 int image_width = 256;
 
 int main() {
-
+    cout << "Hello World!" << endl;
     cout << "P3\n" << image_width << " " << image_height << "\n255\n";
 
     for (int i = 0; i < image_height; i++) {
