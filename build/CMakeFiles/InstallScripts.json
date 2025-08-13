@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/sam-o-reilly/CLionProjects/Raytracing/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
